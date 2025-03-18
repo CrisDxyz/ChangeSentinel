@@ -7,7 +7,7 @@ You can monitor from complete projects to that single script that needs a comple
 
 Personally don't really like github or other cloud systems, so I made this tool.
 
-*I will upload a fancy version written in AHK v2 after I make it prettier and make it more friendly to non programmers.
+*I will upload a fancy version written in AHK v2 after I make it prettier and more friendly to non programmers.
 
 # Why use it?
 
