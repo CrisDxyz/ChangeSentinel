@@ -18,8 +18,8 @@ This tool aims to just keeping it simple, creating a backup each time you save c
 
 The Script stays in the corner of your screen and shows the last file that got backed up.
 
-
+![](https://github.com/CrisDxyz/ChangeSentinel/blob/main/img/gui%20overview%20beta%20change%20sentinel.png)
 
 # Backup Manager
 
-
+![](https://github.com/CrisDxyz/ChangeSentinel/blob/main/img/backup%20manager%20beta.png)
